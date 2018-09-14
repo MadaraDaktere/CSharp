@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day10
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Karatavas kar = new Karatavas();
+            kar.Burti();
+
+            Console.ReadLine();
+        }
+    }
+}
